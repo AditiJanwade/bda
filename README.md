@@ -1,4 +1,4 @@
 # 
-python -m venv venv
-venv\Scripts\activate
-deactivate
+###python -m venv venv
+###venv\Scripts\activate
+###deactivate
