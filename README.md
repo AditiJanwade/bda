@@ -1,1 +1,4 @@
-# bda
+# 
+python -m venv venv
+venv\Scripts\activate
+deactivate
